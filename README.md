@@ -1,0 +1,2 @@
+# XinSiC
+my prj
